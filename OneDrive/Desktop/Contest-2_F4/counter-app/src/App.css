@@ -1,0 +1,19 @@
+body{
+  margin: 10px;
+  padding: 20px;
+  background-color: #000000;
+  color: #fff;
+  display: flex;
+  flex-direction: column; 
+
+}
+.btns{
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+  width: 30rem;
+ 
+}
+.err{
+  color: red;
+}
